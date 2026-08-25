@@ -1,6 +1,6 @@
 # Hi there, I'm Gandham Venkata Manu Rohith 👋 
 
-### 🚀 AI/ML & Systems Engineer | Specializing in LLMs, RAG & Model Optimization
+###  AI/ML & Systems Engineer | Specializing in LLMs, RAG & Model Optimization
 
 I build high-performance **Retrieval-Augmented Generation (RAG) pipelines**, **Autonomous AI Agent Workflows**, and **Small Language Model (SLM) quantization & pruning solutions**. Passionate about deploying production-grade AI systems with optimized latency and memory footprints.
 
@@ -55,5 +55,5 @@ I build high-performance **Retrieval-Augmented Generation (RAG) pipelines**, **A
 ## 📫 Let's Connect!
 
 - **Email**: [gvmanurohithgvmr2006@gmail.com](mailto:gvmanurohithgvmr2006@gmail.com)
-- **LinkedIn**: [linkedin.com/in/manugandham](https://linkedin.com) *(Update with your link)*
+- **LinkedIn**: [https://www.linkedin.com/in/manugandham27/](https://linkedin.com) *(Update with your link)*
 - **GitHub**: [github.com/manugandham27](https://github.com/manugandham27)
