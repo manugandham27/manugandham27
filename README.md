@@ -55,5 +55,5 @@ I build high-performance **Retrieval-Augmented Generation (RAG) pipelines**, **A
 ## 📫 Let's Connect!
 
 - **Email**: [gvmanurohithgvmr2006@gmail.com](mailto:gvmanurohithgvmr2006@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/manugandham27/](https://linkedin.com) *(Update with your link)*
+- **LinkedIn**: [https://www.linkedin.com/in/manugandham27/](https://linkedin.com) 
 - **GitHub**: [github.com/manugandham27](https://github.com/manugandham27)
