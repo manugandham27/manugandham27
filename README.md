@@ -46,8 +46,8 @@ I build high-performance **Retrieval-Augmented Generation (RAG) pipelines**, **A
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manugandham27&show_icons=true&theme=radial&hide_border=true" alt="Manu's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manugandham27&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="175"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=manugandham27&show_icons=true&theme=radial&hide_border=true" alt="Manu's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manugandham27&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="175"/>
 </p>
 
 ---
