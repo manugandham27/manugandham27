@@ -6,7 +6,7 @@
   <a href="https://github.com/manugandham27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-### 🚀 AI/ML & Systems Engineer | Specializing in LLMs, RAG Pipelines & Model Optimization
+###  AI/ML & Systems Engineer | Specializing in LLMs, RAG Pipelines & Model Optimization
 
 I design and deploy production-grade **Retrieval-Augmented Generation (RAG) engines**, **Autonomous Multi-Agent Systems**, and **Small Language Model (SLM) quantization & pruning pipelines** optimized for low-latency, resource-constrained inference.
 
